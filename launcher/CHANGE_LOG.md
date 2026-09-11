@@ -1,18 +1,27 @@
+# 2.3.0-beta.3.3
+
+- Friends get the snowflake badge too
+- Modpacks open to the right menu
+- Better logo animation
+- Text fits in its box
+- Skin card fixed
+
+# 2.3.0-beta.3.2
+
+- Modpacks start without errors
+- New snowflake badge
+- No more heads in chat
+
 # 2.3.0-beta.3.1
 
 - Thijs ik hou van jou
-- Menu blur is now off by default, with its own Frostium setting under Preferences
-- The old OneClient welcome screen no longer appears on a fresh install
-- Mod cards lost the bright blue bar; the accent now only marks what you are hovering
-- Disabled mods are dimmed so you can see at a glance what is running
-- The same mod can no longer appear twice in the list
-- The arm holding the tablet is the right way up
+- Menu blur off by default
+- Cleaner mods screen
+- Arm fixed
 
 # 2.3.0-beta.3
 
-- Automatic updates through GitHub
-- Import modpacks by dropping a .mrpack or .zip onto the window
-- CurseForge packs without an overrides folder now work
-- The launcher no longer picks up an outdated mod jar
+- Auto updates
+- Drag and drop modpacks
 
 ###
