@@ -14,7 +14,7 @@
 
 # 2.3.0-beta.3.1
 
-- Thijs ik hou van jou
+- Fixed Ingame Mod bugs
 - Menu blur off by default
 - Cleaner mods screen
 - Arm fixed
