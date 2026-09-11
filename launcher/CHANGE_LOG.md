@@ -1,3 +1,11 @@
+# 2.3.0-beta.3.4
+
+- Frostium menus in 1.21.11 modpacks
+- Your own snowflake badge shows on every server
+- Vanilla 26.2 starts again
+- Instance menu stays on screen
+- Less flickering while you play
+
 # 2.3.0-beta.3.3
 
 - Friends get the snowflake badge too
